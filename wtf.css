@@ -1,0 +1,38 @@
+/* html{
+    background-color: blueviolet
+}
+h1{
+    color:yellowgreen
+}
+pre{
+    color: whitesmoke
+}
+main{
+    color:aquamarine
+} */
+
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+
+p {
+    color:red;
+}
+
+.note {
+    font-size: 20px;
+}
+
+#id_selector_demo {
+    color:green;
+}
+
+li[value] {
+    color: blue;
+}
+
+*{
+    text-align: center;
+}
